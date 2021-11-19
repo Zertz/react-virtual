@@ -1,11 +1,11 @@
 {
-  "name": "react-virtual",
+  "name": "react-virtual-window-fork",
   "version": "0.0.0",
   "description": "Hooks for virtualizing scrollable elements in React",
   "author": "tannerlinsley",
   "license": "MIT",
-  "repository": "tannerlinsley/react-virtual",
-  "homepage": "https://github.com/tannerlinsley/react-virtual#readme",
+  "repository": "Zertz/react-virtual-window-fork",
+  "homepage": "https://github.com/Zertz/react-virtual-window-fork#readme",
   "support": {
     "backing": "npm-funding"
   },
